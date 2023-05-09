@@ -1,3 +1,4 @@
 username     :hguf7
 password       :gytf7t
 enterpassword :bhhghgu
+yellow star
