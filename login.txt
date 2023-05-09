@@ -1,2 +1,3 @@
-username 
-password
+username     :hguf7
+password       :gytf7t
+enterpassword :bhhghgu
